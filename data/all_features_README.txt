@@ -1,0 +1,2 @@
+The all_features_small.mat is a small size version (to allow uploading to Github) of the original all_features.mat file generated as part of the IFCB processing scheme using Dr. Heidi Sosik's mfiles (https://github.com/hsosik/ifcb-analysis).
+For more information and to access to original all_feature files and code, please contact Fernanda Henderikx Freitas (fhenderi@hawaii.edu) or Angelicque White (aewhite@hawaii.edu).

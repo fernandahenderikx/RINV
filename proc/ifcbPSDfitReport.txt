@@ -1,0 +1,8 @@
+
+Slope: 4.5694, SE: 0.2098, STD: 0.6635
+N0:10^4.7252, SE of exponent: 0.0288, STD of exponent: 0.0909
+
+N0(+1sigma): 6.547742e+04
+N0: 5.310886e+04
+N0(-1sigma): 4.307670e+04
+
